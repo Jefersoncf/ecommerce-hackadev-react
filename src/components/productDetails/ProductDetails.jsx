@@ -1,16 +1,16 @@
-import React from 'react'
+import React from 'react';
 import './productDetails.css';
 import Product1 from '../../assets/img/product1.png';
 
 const ProductDetails = () => {
   return (
     <div className="main">
-      <img src={Product1} className="model" alt='Imagem'/>
+      <img src={Product1} className="model" alt="Imagem" />
       <div>
         <h2>VESTIDO TRANSPACE BOW</h2>
         <div className="value">
           <h3>R$ 199,90</h3>
-          <p> em até 3x R$ 66,63</p>
+          <p> em até 3x R$ 66,77</p>
         </div>
         <p className="choice">Escolha o tamanho</p>
         <div className="number">
@@ -29,8 +29,7 @@ const ProductDetails = () => {
         </div>
       </div>
     </div>
-
-  )
-}
+  );
+};
 
 export default ProductDetails;
