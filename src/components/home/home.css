@@ -40,13 +40,13 @@ li {
   display: flex;
   align-items: center;
 }
-/* Header*/
+/* Header */
 .header {
   position: relative;
   min-height: 100vh;
   overflow-x: hidden;
 }
-/* Navigation*/
+/* Navigation */
 .navigation {
   height: 6rem;
   line-height: 6rem;
@@ -338,13 +338,6 @@ li {
   color: var(--black-p);
 }
 
-/* teste */
-/* .product-info p {
-  color: var(--black-b);
-  text-decoration: line-through;
-  font-size: 12px;
-} */
-/* teste */
 
 .product-item .icons {
   position: absolute;
