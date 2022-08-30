@@ -17,14 +17,14 @@ const Cart = () => {
         image: Product1,
         description: "Vestido Verde Florido",
         price: 50,
-        // quantity: 1,
+        quantity: 1,
         subtotal: 50,
       },
       {
         image: Product5,
         description: "Tênis Azul Marinho",
         price: 90,
-        // quantity: 2,
+        quantity: 2,
         subtotal: 90,
       },
       {
