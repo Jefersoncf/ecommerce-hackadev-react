@@ -18,7 +18,7 @@ const ProductContainer = () => {
   const products = [
     {
       id: 1,
-      name: "VESTIDO FEMININO COM MANGAS",
+      name: "VESTIDO FEMININO COM MANGAS BUFANTES",
       colors: "floral/preto",
       price: 249.0,
       percent: 0,
