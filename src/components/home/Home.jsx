@@ -31,7 +31,7 @@ const Home = () => {
     {
       id: 1,
       name: "VESTIDO FEMININO COM MANGAS",
-      colors: "floral/preto",
+      colors: "floral/preto/rosa",
       price: 249.0,
       percent: 0,
       image: Product1,
