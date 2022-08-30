@@ -53,7 +53,7 @@ const Cart = () => {
               image={product.image}
               description={product.description}
               price={product.price}
-              subtotal={product.subtotal}
+              subtotal={product.subtotal.toLocaleString("pt-br", {style: "currency", currency: "BRL"})}
             />
           ))}
         </table>
