@@ -613,3 +613,37 @@ footer .row {
     margin: 0 20px;
   }
 }
+
+@media only screen and (max-width: 435px) {
+  footer .row {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (min-width: 567px) {
+  .footer {
+    padding: 20px 0 10px 10px;
+    background-color: var(--black-p);
+    font-size: 12px;
+  }
+  .footer .col h4 {
+    margin-bottom: 0.5rem;
+  }
+  .footer .col a {
+    font-size: 12px;
+    padding: 0rem;
+    margin-bottom: 5px;
+    margin-left: 5px;
+  }
+  .footer .col a:last-child {
+    margin-bottom: 20px;
+  }
+  footer .row {
+    display: flex;
+    flex-direction: row;
+  }
+  .social-net i {
+    margin: 0 20px;
+  }
+}
