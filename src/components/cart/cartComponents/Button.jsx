@@ -1,7 +1,7 @@
 const Button = () => {
   return (
     <>
-      <a href="/" className="checkout btn">
+      <a href="/login" className="checkout btn">
         Finalizar pedido
       </a>
     </>
