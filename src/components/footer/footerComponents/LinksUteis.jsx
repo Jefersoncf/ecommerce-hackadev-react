@@ -4,10 +4,10 @@ const LinksUteis = () => {
   return (
     <div className="col">
       <h4>LINKS ÚTEIS</h4>
-      <a>Loja online</a>
-      <a>Atendimento ao cliente</a>
-      <a>Promoções</a>
-      <a>Marcas</a>
+      <a href="/#">Loja online</a>
+      <a href="/#">Atendimento ao cliente</a>
+      <a href="/#">Promoções</a>
+      <a href="/#">Marcas</a>
     </div>
   )
 }

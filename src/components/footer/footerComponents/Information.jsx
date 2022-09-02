@@ -4,10 +4,10 @@ const Information = () => {
   return (
     <div className="col">
         <h4>INFORMAÇÃO</h4>
-        <a>Sobre</a>
-        <a>Contato</a>
-        <a>{`Termos & Condições`}</a>
-        <a>Tipos de envio</a>
+        <a href="/#">Sobre</a>
+        <a href="/#">Contato</a>
+        <a href="/#">{`Termos & Condições`}</a>
+        <a href="/#">Tipos de envio</a>
       </div>
   )
 }
