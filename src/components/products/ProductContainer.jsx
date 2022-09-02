@@ -92,7 +92,7 @@ const ProductContainer = () => {
 
   return (
     <section className="section all-products" id="products">
-      <div className="top container">
+      <div className="top container" id="product-header">
         <h1>Todos os Produtos</h1>
         <ListOrder/>
       </div>

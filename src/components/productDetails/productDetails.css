@@ -78,6 +78,13 @@ body {
   font-size: 15px;
 }
 
+#product-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
 @media (max-width: 415px) {
   body {
     margin: 0px;
