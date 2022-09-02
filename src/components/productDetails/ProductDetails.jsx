@@ -18,7 +18,7 @@ const ProductDetails = () => {
           <div className="size">M</div>
           <div className="size">G</div>
         </div>
-        <button className="button">Adicionar à Sacola</button>
+        <a href="/cart"><button className="button">Adicionar à Sacola</button></a>
 
         <div className="description">
           <h3> DETALHES DO PRODUTO</h3>
