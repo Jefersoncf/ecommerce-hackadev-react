@@ -1,6 +1,6 @@
 # DEVMODAS
 
-|<img src="./screen/ReadBanner.jpeg">
+|<img src="screen/ReadBanner.jpeg">
 
 DevModas is an e-commerce project, open source software being developed (test scenario), with educational purposes, under the guidance Imã Learning Place.
 https://luxury-sprite-301a2b.netlify.app/
