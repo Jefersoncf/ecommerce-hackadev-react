@@ -1,6 +1,9 @@
 # DEVMODAS
 
-|<img src="screen/ReadBanner.jpeg">
+![Banner](https://github.com/Jefersoncf/ecommerce-hackadev-react/blob/main/screen/ReadBanner.jpeg.jpeg
+)
+
+
 
 DevModas is an e-commerce project, open source software being developed (test scenario), with educational purposes, under the guidance Imã Learning Place.
 https://luxury-sprite-301a2b.netlify.app/
@@ -39,12 +42,18 @@ https://luxury-sprite-301a2b.netlify.app/
 - `Netlify`
 ## Layout
 
-<img src="./screen/ReadAcess.jpeg">
-<img src="./screen/ReadDestaque.jpeg">
-<img src="./screen/ReadQueridinhos.jpeg">
-<img src="./screen/ReadCard.jpeg" >
-<img src="./screen/ReadLogin.jpeg">
-<img src="./screen/ReadCheckout.jpeg">|
+![Acessórios](https://github.com/Jefersoncf/ecommerce-hackadev-react/blob/main/screen/ReadAcess.jpeg.jpeg)
+![Destaque](https://github.com/Jefersoncf/ecommerce-hackadev-react/blob/main/screen/ReadDestaques.jpeg.jpeg)
+![Queridinnhos](https://github.com/Jefersoncf/ecommerce-hackadev-react/blob/main/screen/ReadQueridinhos.jpeg.jpeg)
+![Login](https://github.com/Jefersoncf/ecommerce-hackadev-react/blob/main/screen/ReadLogin.jpeg.jpeg)
+![Cart](https://github.com/Jefersoncf/ecommerce-hackadev-react/blob/main/screen/ReadCheckout.jpeg.jpeg)
+
+## Mobile
+
+![Card](https://github.com/Jefersoncf/ecommerce-hackadev-react/blob/main/screen/ReadCard.jpeg.jpeg)
+
+
+
 
 ## Pages under implementation
 
