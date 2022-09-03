@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# DEVMODAS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+|<img src="./screen/ReadBanner.jpeg">
 
-## Available Scripts
+DevModas is an e-commerce project, open source software being developed (test scenario), with educational purposes, under the guidance Imã Learning Place.
+https://luxury-sprite-301a2b.netlify.app/
 
-In the project directory, you can run:
+![in Development](https://img.shields.io/badge/Project%20-in%20Development-green)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+| Feature          |  Coded?  | Description                            |
+| ---------------- | :------: | :------------------------------------- |
+| Add a Product    | &#10004; | Ability of Add a Product on the System |
+| List Products    | &#10004; | Ability of List Products               |
+| Edit a Product   | &#10004; | Ability of Edit a Product              |
+| Delete a Product | &#10004; | Ability of Delete a Product            |
+| Stock            | &#10004; | Ability of Update the Stock            |
+| Create a Cart    | &#10004; | Ability of Create a new Cart           |
+| See Cart         | &#10004; | Ability to see the Cart and it items   |
+| Remove a Cart    | &#10004; | Ability of Remove a Cart               |
+| Add Item         | &#10004; | Ability of add a new Item on the Cart  |
+| Remove a Item    | &#10004; | Ability of Remove a Item from the Cart |
+| Checkout         | &#10004; | Ability to Checkout                    |
+| Login            | &#10004; | Ability                                |
+| Database         | &#10004; | Ability                                |
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tecnologies used
+### languages
+- `HTML`
+- `CSS`
+- `JavaScript`
+- `React`
+- `SQL`
 
-### `npm test`
+### Tools
+- `VS Code`
+- `GitHub`
+- `Netlify`
+## Layout
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="./screen/ReadAcess.jpeg">
+<img src="./screen/ReadDestaque.jpeg">
+<img src="./screen/ReadQueridinhos.jpeg">
+<img src="./screen/ReadCard.jpeg" >
+<img src="./screen/ReadLogin.jpeg">
+<img src="./screen/ReadCheckout.jpeg">|
 
-### `npm run build`
+## Pages under implementation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- `About`
+- `Contacts`
+- `T&C`
+- `Login authentication`
+- `Database`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Access to the project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+_You can access the project source code(https://github.com/Jefersoncf/ecommerce-hackadev-react.git) Or lower it (https://github.com/Jefersoncf/ecommercehackadevreact/archive/refs/heads/main.zip)._
 
-### `npm run eject`
+## Developers
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+|    [<img src="https://avatars.githubusercontent.com/u/37253740?v=4" width=115><br><sub>Andréia Costa</sub>](https://github.com/deiaalvs)    | [<img src="https://avatars.githubusercontent.com/u/105948342?v=4" width=115><br><sub>Danilo Granato</sub>](https://github.com/danilogranatoaraujo7) | [<img src="https://avatars.githubusercontent.com/u/68679261?v=4" width=115><br><sub>Franklin Miguel</sub>](https://github.com/Franklin422) | [<img src="https://avatars.githubusercontent.com/u/104076058?v=4" width=115><br><sub>Grasiele Rocha</sub>](https://github.com/GrasieleRocha) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/u/69442566?v=4" width=115><br><sub>Jeferson Ferreira</sub>](https://github.com/jefersoncf) |   [<img src="https://avatars.githubusercontent.com/u/105318579?v=4" width=115><br><sub>Matheus Vieira</sub>](https://github.com/matheusvieira17)    |    [<img src="https://avatars.githubusercontent.com/u/91348750?v=4" width=115><br><sub>Paulo Buzeli</sub>](https://github.com/PBuzeli)     |   [<img src="https://avatars.githubusercontent.com/u/104572313?v=4" width=115><br><sub>Victória Sousa</sub>](https://github.com/viicsousa)   |
